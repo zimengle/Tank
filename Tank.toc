@@ -1,0 +1,10 @@
+## Interface: 11300
+## Title: Tank
+## Notes: Tank auto spell skill to pull
+## Author: WilliamMeng
+## eMail: 30962088@qq.com
+## DefaultState: enabled
+## SavedVariables: Tank_Configuration
+## OptionalDeps: IsMounted
+IsMounted\IsMounted.xml
+Tank.xml
